@@ -1,6 +1,6 @@
 {
   "name": "command-exists",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "check whether a command line command exists in the current environment",
   "main": "index.js",
   "scripts": {
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/mathisonian/command-exists"
+    "url": "http://github.com/buddyp450/command-exists"
   },
   "keywords": [
     "cli",
     "command",
     "exists"
   ],
-  "author": "Matthew Conlen",
+  "author": "buddyp450@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mathisonian/command-exists/issues"
+    "url": "https://github.com/buddyp450/command-exists/issues"
   },
-  "homepage": "https://github.com/mathisonian/command-exists",
+  "homepage": "https://github.com/buddyp450/command-exists",
   "devDependencies": {
     "expect.js": "^0.3.1",
     "jshint": "^2.9.1",
